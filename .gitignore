@@ -1,7 +1,11 @@
-.DS_Store
-/.env
-/package-lock.json
-/yarn.lock
+# envs
+.env
 
-/node_modules
-/dist
+# dependencies
+node_modules/
+
+# magOS
+.DS_Store
+
+# builds
+dist/
